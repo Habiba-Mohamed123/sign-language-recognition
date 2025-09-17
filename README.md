@@ -15,9 +15,15 @@ The goal is to assist communication for people with hearing and speech impairmen
 - Collected custom dataset of hand gestures (images/coordinates).
 - Each gesture labeled and used to train the ML model.
 
-## Requirements
-Install the dependencies using:
+## Library
+mediapipe==0.10.14
+opencv-python==4.10.0.84
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+matplotlib==3.9.2
+joblib==1.4.2
 
-```bash
-pip install -r requirements.txt
+## Dataset
+https://drive.google.com/file/d/1om8ngiVKAYJb19I83xQSn3f3CThnaSIy/view
 
